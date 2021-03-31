@@ -18,3 +18,4 @@ As a first goal, we want to be able to simulate the following
 
 Inspiration also here
 + https://mggg.org/metagraph/
++ + Random walk on 7x7 metgraphs animated : https://mggg.org/metagraph/7x7.html
