@@ -15,3 +15,6 @@ As a first goal, we want to be able to simulate the following
 + + Keep track of rejection rate
 + + Keep track of number of new districts discovered as a function of non-rejected iteration (so we’re distinguishing rejection of illegal district from discovery of an already known district)
 + Visualize?
+
+Inspiration also here
++ https://mggg.org/metagraph/
